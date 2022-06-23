@@ -17,4 +17,3 @@
 •	How did you make this program maintainable, readable, and adaptable?
   By following the industry standards, I ensure the codes I designed was readable and reusable. For example, I utilized in-line comments to explain each     functions’ functionality and use same syntax and style through out the coding. 
 
-![image](https://user-images.githubusercontent.com/107447451/175187310-033c1703-0718-4c9d-a33c-beb9ad56e7a0.png)
